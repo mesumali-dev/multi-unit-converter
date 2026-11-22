@@ -1,32 +1,32 @@
-# Unit Converter App
+# ⚖️ Multi-Unit Converter — Real-Time Conversion Suite
 
-A simple yet powerful **Unit Converter** web application built using **Streamlit**. This app allows users to convert between different units across various categories such as length, weight, temperature, and more.
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=flat-square&logo=python)](https://python.org)
+[![Streamlit](https://img.shields.io/badge/Streamlit-UI-FF4B4B?style=flat-square&logo=streamlit)](https://streamlit.io/)
 
----
-
-## 🚀 **Features**
-
-- 📏 **Length Conversion:** Meter, Kilometer, Mile, Inch, Foot
-- 🕒 **Speed Conversion:** m/s, km/h, mph, ft/s, knots
-- 📱 **User-Friendly Interface** built with **Streamlit**
+> Multi-category unit conversion web utility providing instantaneous, bidirectional mathematical computations across length, weight, temperature, and volume metrics.
 
 ---
 
-## 🛠️ **Technologies Used**
+## 📐 Conversion Categories
 
-- **Python**
-- **Streamlit**
----
-
-## 🏅 **License**
-
-This project is licensed under the **MIT License**.
+- **Length & Distance:** Meters, Kilometers, Feet, Miles, Inches, Yards.
+- **Weight & Mass:** Kilograms, Grams, Pounds, Ounces, Metric Tons.
+- **Temperature:** Celsius, Fahrenheit, Kelvin.
+- **Immediate Precision Output:** High-precision decimal rendering with instantaneous recalculation.
 
 ---
 
-## 📞 **Contact**
+## 🚀 Run the App
 
-- **Author:** Syed Mesum Ali Shah
-- **GitHub:** [mesumaliofficial](https://github.com/mesumaliofficial)
-- **Email:** syedmesumjaffary@gmail.com
+```bash
+git clone https://github.com/mesumali-dev/multi-unit-converter.git
+cd multi-unit-converter
 
+pip install -r Requirement.txt
+streamlit run app.py
+```
+
+---
+
+## 👨‍💻 Author
+**Syed Mesum Ali** — [@mesumali-dev](https://github.com/mesumali-dev)
